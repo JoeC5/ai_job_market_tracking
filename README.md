@@ -98,9 +98,9 @@ Queries the PostgreSQL database and generates 13 charts and maps saved to `outpu
 | `08_roles_by_count.png` | AI role counts by title, current week |
 | `09_company_table.png` | Company job counts with delta, two-period comparison |
 | `10_us_state_map.png` | US choropleth map of AI role openings by state |
-| `11_americas_map.png` | Americas regional choropleth map |
-| `12_europe_map.png` | Europe regional choropleth map |
-| `13_apac_map.png` | APAC and Middle East regional choropleth map |
+| `11_americas_map.png` | Americas regional choropleth map | currently not included in PowerPoint deck
+| `12_europe_map.png` | Europe regional choropleth map | currently not included in PowerPoint deck
+| `13_apac_map.png` | APAC and Middle East regional choropleth map | currently not included in PowerPoint deck
 
 All charts use a colorblind-friendly Seaborn palette. Maps are generated as both interactive HTML and static PNG (for PowerPoint embedding).
 
