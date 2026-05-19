@@ -20,7 +20,7 @@ generate_pptx.py             — assembles PowerPoint deck
 agent.py                     — AI-powered week-over-week analysis
 ```
 
-The output is a ready-to-publish PowerPoint report with embedded visuals and AI-generated insights, used to inform a recurring LinkedIn post on the state of AI hiring.
+The output is a draft PowerPoint report with embedded visuals and AI-generated insights, used to inform a recurring LinkedIn post on the state of AI hiring.
 
 ---
 
