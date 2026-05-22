@@ -113,12 +113,12 @@ python generate_visuals.py
 
 ### Stage 3 — PowerPoint Builder (`generate_pptx.py`)
 
-Takes the PNG visuals from Stage 2 and assembles them into a PowerPoint deck by modifying a reference template (`4_22_2026_post.pptx`). Embedded charts and tables from the template are removed and replaced with the freshly generated visuals.
+Takes the PNG visuals from Stage 2 and assembles them into a PowerPoint deck by modifying a reference template (`ppt_template.pptx`). Embedded charts and tables from the template are removed and replaced with the freshly generated visuals.
 
 **Before running**, update the two date constants at the top of the file:
 ```python
-REPORT_DATE = "05.07.2026"   # current report date (MM.DD.YYYY)
-PREV_DATE   = "04.20.2026"   # previous report date (MM.DD.YYYY)
+REPORT_DATE = "05.19.2026"   # current report date (MM.DD.YYYY)
+PREV_DATE   = "05.04.2026"   # previous report date (MM.DD.YYYY)
 ```
 
 **Slide map:**
